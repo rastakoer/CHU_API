@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    color: blue;
+    font-family: cursive;
+    font-size: 3em;
+    font-weight: bold;
+    font-style: italic;
+}
+
+h2{
+    margin: 2.5em;
+    color: rgb(15, 140, 9);
+    font-family: cursive;
+    font-size: 1.5em;
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+ul{
+    margin: 2em;
+}
+
+#commentaire{
+    text-align: left;
+    color: rgb(8, 8, 10);
+    font-family: cursive;
+    font-size: 1.5em;
+    font-weight: bold;
+    font-style: italic;
+}
