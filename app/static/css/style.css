@@ -29,3 +29,10 @@ ul{
     font-weight: bold;
     font-style: italic;
 }
+
+.container-main{
+    margin:0 auto;
+    max-width: 90%;
+    background-color: rgb(76, 243, 243);
+    border-radius: 20px;
+}
